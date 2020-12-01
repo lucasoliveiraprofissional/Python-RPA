@@ -84,7 +84,7 @@ descon.click()
 sleep(1)
 
 #Por fim, encerrará a instância do Browser ativa:
-#browser.quit()
+browser.quit()
 
 
 '''
